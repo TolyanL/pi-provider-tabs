@@ -34,7 +34,7 @@ pi install git:github.com/TolyanL/pi-provider-tabs
 Pin a tag or commit:
 
 ```sh
-pi install git:github.com/TolyanL/pi-provider-tabs@v0.1.0
+pi install git:github.com/TolyanL/pi-provider-tabs@1.0.0
 ```
 
 Try it for a single invocation without touching your settings:
